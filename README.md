@@ -1,1 +1,2 @@
 # Data-mining-and-drug-prediction-for-Cancer-diseases
+Computational approach for the identification of significant/concordant genes among Overian cancer(OC), Endometrial cancer (EC) and Breast cancer (BC).BC, EC and OC are devastating diseases among women, because the ratio of death is very high for these three cancers.The project attempts to find the common genes among BC, EC and OC. Reduction of gene rate is achieved through the preprocessing and filtering process.
